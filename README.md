@@ -1,2 +1,3 @@
 # Projeto_Parceria_-_Semantix
 Encontrar uma problemática da vida real que possa ser solucionada através de análise de dados e machine learning. A ideia do projeto é explicar e justificar a relevância do uso de dados para encontrar a solução. 
+• Dissertar sobre o problema; • Levantar as fontes de dados públicas e não confidenciais para a coleta de informações. • Efetuar a análise exploratória de dados levantando os principais pontos relevantes para a solução do problema. • Construir um aprendizado de máquina ou modelo estatístico e avaliar através de técnicas de modelagem. • Apresentar uma visualização de dados com os resultados obtidos.
